@@ -1,1 +1,1 @@
-# curso-TDD-com-js-na-pr-tica
+# curso-TDD-com-js-na-pratica
